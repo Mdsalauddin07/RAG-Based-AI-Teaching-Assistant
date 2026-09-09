@@ -1,0 +1,7 @@
+In this web development course, we actually don't have a dedicated video or lesson on the "Heading tag". However, in Video 3, titled "Basic Structure of an HTML Website", at around 0:17 seconds into the video (or 184.08 seconds), we briefly touch upon the concept of opening and closing tags for the head element.
+
+The instructor mentions that this specific code snippet: `<head>` is a self-closing tag, but it's not entirely accurate. Instead, the instructor suggests using a closing tag like `</head>`. However, in modern HTML5, you can use the single tag syntax `<head>` without a closing tag.
+
+If you're interested in learning more about headings and how to implement them effectively in your HTML website, I'd recommend checking out Video 3 again. It might be helpful for you to review that section and see how headings are used in context with other HTML elements.
+
+Would you like me to clarify anything further or guide you on where to find the relevant information?

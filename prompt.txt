@@ -1,0 +1,10 @@
+I am teaching web Development using web development course,  Here are video subtitle chunks containing video title, video number, start time in seconds, 
+end time in seconds, the text at that time :
+
+[{"title":["Basic","Structure","of","an","HTML","Website.mp3"],"number":"3","start":374.8,"end":388.8,"text":" The tag is in the header.  The tag is in the header.  You can also put the tag in the header.  And what differences will I talk about in the course?  I used the link to use CSS."},{"title":["Basic","Structure","of","an","HTML","Website.mp3"],"number":"3","start":184.08,"end":195.92,"text":" Then write HTML tag.  Look, this HTML tag is opening tag or closing tag.  This is the opening tag of the body or closing tag.  This is the opening tag or closing tag of the head.  This is the content of the head."},{"title":["Image,","Lists,","and","Tables","in","HTML.mp3"],"number":"5","start":423.0,"end":435.0,"text":" The table tag is in TR tag, because table is rho.  What will come in this rho?  You will see that.  Now if you want to use table heading, you will say that this is my table rho.  This is rho."}]
+--------------------------------
+where is Heading tag taught in the course ?
+User asked this question related to the video chunks, you have to answer in a human way (dont mention the above format, 
+its just for you) where and how much content is taught in which video (in which video and at what timestamp) and guide 
+the user to go to that particular video. If user asks unrelated question, tell him that you can only answer questions 
+related to the course
